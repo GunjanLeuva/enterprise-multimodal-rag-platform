@@ -1,0 +1,10 @@
+# Web framework — [standard] extra bundles uvicorn[standard] + fastapi-cli
+fastapi[standard]==0.138.2
+uvicorn[standard]==0.35.0
+
+# Data validation & settings management
+pydantic==2.13.1
+pydantic-settings==2.14.2
+
+# Environment variable loading (used by pydantic-settings' env_file support)
+python-dotenv==1.1.0
