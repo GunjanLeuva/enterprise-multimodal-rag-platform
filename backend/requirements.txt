@@ -7,4 +7,4 @@ pydantic==2.13.1
 pydantic-settings==2.14.2
 
 # Environment variable loading (used by pydantic-settings' env_file support)
-python-dotenv==1.1.0
+python-dotenv==1.2.2
